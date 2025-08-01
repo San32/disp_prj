@@ -1,0 +1,8 @@
+{
+  "text": "열차가 들어오고 있어요",
+  "direction": "right",
+  "font_size": 24,
+  "speed": 2,
+  "window_size": [600, 100],
+  "duration": 5
+}

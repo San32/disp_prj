@@ -1,0 +1,5 @@
+/home/comm/Downloads/일반홍보/동영상/57민생.wmv
+/home/comm/Downloads/일반홍보/이미지/57냉방.jpg
+/home/comm/Downloads/일반홍보/동영상/57세바시.wmv
+/home/comm/Downloads/일반홍보/이미지/57K3축(0727).jpg
+/home/comm/work/disp_prj/현재시간.txt
